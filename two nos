@@ -1,0 +1,10 @@
+a=20
+b=10
+if a==b:
+   print("equal")
+else:
+   print("not equal")
+if a>b:
+   print("a is greater")
+else:
+   print("b is lesser")
